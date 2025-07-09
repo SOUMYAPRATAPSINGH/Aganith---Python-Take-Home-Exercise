@@ -5,8 +5,8 @@ from Bio import Entrez
 import time
 import re
 
-     # Configure Entrez with a default email (override with command-line if needed)
-Entrez.email = "soumyapratapsingh.work@gmail.com"  # CHANGE THIS: Set your real email
+
+Entrez.email = "soumyapratapsingh.work@gmail.com" 
 
 def setup_logging(debug):
          """Configure logging based on debug flag."""
