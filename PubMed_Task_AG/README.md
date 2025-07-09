@@ -70,7 +70,7 @@ PubMed Paper Fetcher
 
  ## GitHub Repository
 
- [https://github.com/SOUMYAPRATAPSINGH/Aganith---Python-Take-Home-Exercise/new/main/PubMed_Task_AG]([https://github.com/yourusername/pubmed-fetcher](https://github.com/SOUMYAPRATAPSINGH/Aganith---Python-Take-Home-Exercise/new/main/PubMed_Task_AG))  
+ [https://github.com/SOUMYAPRATAPSINGH/Aganith---Python-Take-Home-Exercise](https://github.com/SOUMYAPRATAPSINGH/Aganith---Python-Take-Home-Exercise)  
 
  ## Issues
 
